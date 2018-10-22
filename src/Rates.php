@@ -207,7 +207,7 @@ class Rates
             "state" => "New Jersey",
             "abbreviation" => "NJ",
             "locality" => null,
-            "stateTaxRate" => 0.03,
+            "stateTaxRate" => 0.08,
             "localityTaxRate" => null,
         ],
         "nm" => [
