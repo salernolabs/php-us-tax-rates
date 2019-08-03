@@ -1,4 +1,6 @@
-# php-us-tax-rates
+# salernolabs/php-us-tax-rates
+
+![Travis Build Status](https://travis-ci.com/salernolabs/php-us-tax-rates.svg?branch=master)
 
 A light-weight, no-cruft PHP library that includes lottery tax rates for use in the 
 [I'm In It app](https://www.iminitapp.com) service. The main purpose is to open source 
